@@ -32,7 +32,7 @@ Has the grid more than one solution (1 for y, 0 for n) ? : 1
 
 ./sudoku -s test_grid_3 
 
-The initial sudoku grid :
+The initial sudoku grid : <br/>
 _ 5 9 _ _ _ 6 _ _ <br/>
 _ _ _ 4 _ _ 5 _ _ <br/>
 _ _ _ 5 _ 9 _ 3 _ <br/>
