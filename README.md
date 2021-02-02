@@ -8,9 +8,9 @@ How to use :
 2) cd in the directory and type make
 3) Three modes are available : first one to get a True/False answer to know if the grid passed in parameter has 1 or more solution(s), second one to solve a grid passed in parameter and last one to generate an easy/medium/hard grid ready to play.
 
-./sudoku -s filename, for solving
-./sudoku -g -e/m/h, for generating a random easy/medium/hard grid to solve
-./sudoku -c filename, to know if the grid has a single solution, or more
+./sudoku -s filename, for solving <br/>
+./sudoku -g -e/m/h, for generating a random easy/medium/hard grid to solve <br/>
+./sudoku -c filename, to know if the grid has a single solution, or more <br/>
 
 Examples :
 
