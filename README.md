@@ -8,6 +8,8 @@ How to use :
 2) cd in the directory and type make
 3) Three modes are available : first one to get a True/False answer to know if the grid passed in parameter has 1 or more solution(s), second one to solve a grid passed in parameter and last one to generate an easy/medium/hard grid ready to play.
 
+/!\ The grid passed in parameter has to be valid and solvable. If the grid has more than one solution, the most smallest solution will be returned (the one with the smallest numbers). /!\
+
 ./sudoku -s filename, for solving <br/>
 ./sudoku -g -e/m/h, for generating a random easy/medium/hard grid to solve <br/>
 ./sudoku -c filename, to know if the grid has a single solution, or more <br/>
