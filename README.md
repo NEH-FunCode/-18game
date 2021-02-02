@@ -18,15 +18,15 @@ Examples :
 
 The sudoku grid which we want to know if it has more that one solution :
 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
+_ _ _ _ _ _ _ _ _ <br/>
 
 Has the grid more than one solution (1 for y, 0 for n) ? : 1
 
